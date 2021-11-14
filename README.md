@@ -1,6 +1,6 @@
 <p align="center"><a href="https://t.me/MutualanVibes"><img src="https://telegra.ph/file/2a7533f21bf36924560ea.jpg" width="260"></a></p>
 <p align="center">
-    <br><b>XBot Music is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
+    <br><b>RaflyMusicV2 is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
