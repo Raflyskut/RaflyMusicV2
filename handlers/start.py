@@ -80,7 +80,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Owner 👨‍💻", url="https://t.me/devoloperflicks/32"
+                        "Owner 👨‍💻", url="https://t.me/raflyskuy/32"
                     )
                 ],
             ]
@@ -126,7 +126,7 @@ async def help(client: Client, message: Message):
 
 » **Press the button below to read the explanation and see the list of available commands !**
 
-⚡ __Powered by {BOT_NAME} A.I__""",
+⚡ __Powered by {BOT_NAME} """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton(text="❓ Basic Guide", callback_data="cbguide")]]
         ),
