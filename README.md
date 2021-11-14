@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/Virtual_Gc"><img src="https://telegra.ph/file/5cce622f6002f796ad16b.jpg" width="260"></a></p>
+<p align="center"><a href="https://t.me/MutualanVibes"><img src="https://telegra.ph/file/2a7533f21bf36924560ea.jpg" width="260"></a></p>
 <p align="center">
     <br><b>XBot Music is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
